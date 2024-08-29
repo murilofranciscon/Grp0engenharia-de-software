@@ -27,14 +27,11 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Ana Julia Blande Silva 
+* Bernnardo Francisco de Oliveira da Silva
+* Gabriel Rocha Aboboreira
+* Murilo Franciscon Miotto
+* Naomi Suguimoto Arakaki
 
 
 # Descrição do Projeto
