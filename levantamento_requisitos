@@ -1,31 +1,24 @@
 Requisitos Funcionais
-- Exigir a localização do cliente
-- Cacular a unidade mais proxima e enviar o pedido
-- Salvar o ultimo endereço do cliente para facilitar o próximo pedido
-- Permitir que o cliente acompanhe o pedido
--
--
--
--
--
--
+- Exigir a localização do cliente;
+- Cacular a unidade mais proxima e enviar o pedido;
+- Salvar o ultimo endereço do cliente para facilitar o próximo pedido;
+- Permitir que o cliente acompanhe o pedido;
+- Permissão para acessar a localização do cliente;
+- Interface exibindo todas as opções de pizzas e entregas;
+- Caso a fabrica mais próxima recusar o pedido ou não aceitar em 2 min, encaminhar para a segunda mais próxima;
+- Informar e bloquear pedidos para endereços muito distantes;
+- Notificar ao cliente quando estiver a 5 min Motoboy terá um código de verificação que solicitará antes de entregar ;
+- Informar o telefone para as fábricas para comunicar problemas com entrega.
 
 Requisito Não-Funcionais
-- Conter a logo da pizzaria express na parte superior do aplicativo
-- Compativel com android e IOS
-- Entregar dentro de 10 a 15 minutos o pedido para a respectiva pizzaria
-- Informar e exigir o consentimento do uso de dados
-- Segurança com os dados do cliente
--
--
--
--
-Finalidade do Tratamento;
-Tipo de Dados Coletados;
+- Conter a logo da pizzaria express na parte superior do aplicativo;
+- Compativel com android e IOS;
+- Entregar dentro de 10 a 15 minutos o pedido para a respectiva pizzaria;
+- Informar e exigir o consentimento livre e esclarecido do uso de dados;
+- Segurança com os dados do cliente;
+- Forma de Revogação do Consentimento;
+- Contrato do Encarregado(DPO);
+- Manter funcionalidades dentor das leis gerais de proteção de dados (LGPD);
+- Acessebilidade.
 
-Compartilhamento com Terceiros;
-Direitos do Titular dos Dados;
-Contato do Encarregado (DPO);
-Forma de Revogação do Consentimento;
-Consequências da Negativa ao Consentimento;
-Consentimento Livre e Esclarecido;
+
