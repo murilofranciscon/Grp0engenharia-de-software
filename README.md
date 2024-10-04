@@ -18,10 +18,10 @@ Suporte às operações da Loja: Automatizar as operações internas da loja, in
 <p>Esse projeto visa atender a uma necessidade crítica da Pizza-Express de otimizar seu serviço de entrega, reduzindo o tempo para menos de 30 minutos e garantindo competitividade no mercado. O sistema terá funcionalidades de localização de lojas, processamento de pedidos e gerenciamento das operações internas, tudo com o foco em rapidez e eficiência.</p>
 
 <h1>Autores</h1>
-<p>Ana Julia Blande (RA: 10438692)
-Gabriel Rocha Aboboreira (RA: 1042020)
-Murilo Franciscon Miotto (RA: 10438787)
-Naomj Suguimoto Arakaki (RA:10438010)</p>
+<p>Ana Julia Blande (RA: 10438692)</p>
+<p>Gabriel Rocha Aboboreira (RA: 1042020)</p>
+<p>Murilo Franciscon Miotto (RA: 10438787)</p>
+<p>Naomi Suguimoto Arakaki (RA:10438010)</p>
 
 
 
